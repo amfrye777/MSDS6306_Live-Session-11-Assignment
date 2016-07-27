@@ -1,0 +1,57 @@
+"","States","DeathPenaltyDesc","DeathPenaltyCode"
+"1","Alabama","Lethal injection or electrocution",1
+"2","Alaska","No death penalty",0
+"3","Arizona","Lethal injection or gas",1
+"4","Arkansas","Lethal injection or electrocution",1
+"5","California","Lethal injection or gas",1
+"6","Colorado","Lethal injection",1
+"7","Connecticut","No death penalty",0
+"8","Delaware","Lethal injection",1
+"9","District of Columbia","No death penalty",0
+"10","Florida","Lethal injection or electrocution",1
+"11","Georgia","Lethal injection",1
+"12","Hawaii","No death penalty",0
+"13","Idaho","Lethal injection or firing squad",1
+"14","Illinois","No death penalty",0
+"15","Indiana","Lethal injection",1
+"16","Iowa","No death penalty",0
+"17","Kansas","Lethal injection",1
+"18","Kentucky","Lethal injection or electrocution",1
+"19","Louisiana","Lethal injection",1
+"20","Maine","No death penalty",0
+"21","Maryland","No death penalty",0
+"22","Massachusetts","No death penalty",0
+"23","Michigan","No death penalty",0
+"24","Minnesota","No death penalty",0
+"25","Mississippi","Lethal injection",1
+"26","Missouri","Lethal injection or gas",1
+"27","Montana","Lethal injection",1
+"28","Nebraska","Electrocution",1
+"29","Nevada","Lethal injection",1
+"30","New Hampshire","Lethal injection or hanging",1
+"31","New Jersey","No death penalty",0
+"32","New Mexico","No death penalty",0
+"33","New York","No death penalty",0
+"34","North Carolina","Lethal injection",1
+"35","North Dakota","No death penalty",0
+"36","Ohio","Lethal injection",1
+"37","Oklahoma","Lethal injection electrocution or firing squad",1
+"38","Oregon","Lethal injection",1
+"39","Pennsylvania","Lethal injection",1
+"40","Rhode Island","No death penalty",0
+"41","South Carolina","Lethal injection or electrocution",1
+"42","South Dakota","Lethal injection",1
+"43","Tennessee","Lethal injection or electrocution",1
+"44","Texas","Lethal injection",1
+"45","Utah","Lethal injection",1
+"46","Vermont","No death penalty",0
+"47","Virginia","Lethal injection or electrocution",1
+"48","Washington","Lethal injection or hanging",1
+"49","West Virginia","No death penalty",0
+"50","Wisconsin","No death penalty",0
+"51","Wyoming","Lethal injection or gas",1
+"52","Federal system","Lethal injection",1
+"54","American Samoa","No death penalty",0
+"55","Guam","No death penalty",0
+"56","Puerto Rico","No death penalty",0
+"57","Virgin Islands","No death penalty",0
