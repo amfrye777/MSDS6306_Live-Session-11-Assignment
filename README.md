@@ -1,5 +1,6 @@
-Data was gathered and cleaned from the below site:
-    http://www.infoplease.com/ipa/A0004916.html
+Data was gathered and cleaned from the following site: http://www.infoplease.com/ipa/A0004916.html
+
+This data is as of May 2013.
 
 Two files were produced 
 * DeathPenaltyStatsNotMerged.csv
