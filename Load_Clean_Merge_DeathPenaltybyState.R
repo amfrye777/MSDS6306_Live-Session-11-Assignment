@@ -40,7 +40,12 @@ getKeyStats_xpath <- function() {
 
 DeathPenalty <- getKeyStats_xpath()
 
+formattable(DeathPenalty)
+
+
 MergedData <- merge(Dataset1,DeathPenalty,by.x = "State", by.y = "States", all.x = TRUE)
+
 formattable(MergedData)
 
+write.csv(DeathPenalty, "DeathPenaltyStatsNotMerged.csv",row.names=TRUE)  
 write.csv(MergedData, "DeathPenaltyStatsMerged.csv",row.names=TRUE)  
